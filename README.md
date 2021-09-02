@@ -1,17 +1,5 @@
-Random_quote_generator
-Random Quote Generator App using HTML, CSS and JavaScript
+# Random_quote_generator
+This repo generates some Quotes using HTML, CSS and JavaScript softwares.
+# Live Link:
 
 
-
-This repo is for Random Quote Generator App. 
-
-
-Tools
--HTML, CSS, JavaScript (for coding and implementation on UI)
-
--VS Code (as Editor)
-
--Browser (as runtime environment)
-
-How to run code in this repo?
-Clone the repo locally
